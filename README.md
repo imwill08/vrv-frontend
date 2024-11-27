@@ -9,6 +9,15 @@ this website is named "HRMS" which means Human Resource Management system in whi
 on the Admin interface they have the control on user data that they can know when user are on leave for what resons and when they started and ended their day they have the control to approve or reject leave on the portal along with all employees data.
 
 
+steps to access 
+
+1. click on link: https://vrv-frontend-alpha.vercel.app/
+2. Then click on HRMS Button
+3. in Sign In page Login ID: User1@    ,    Password: 1111
+4. then there will be a Admin Button on Sign In Page click on it and login to Admin Page
+5. Admin Login : admintest    ,   Password: 1234
+6. Further more go through the page according to it remember user can Time-in before 10:15am and can Time-out after 18:20 otherwise actions are not allowed.
+
 
 ### Quick Start
 
