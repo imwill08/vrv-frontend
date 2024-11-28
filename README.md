@@ -39,4 +39,6 @@ Then run this command to start your local server
 npm start
 ```
 
-
+Note:
+this site might take time in logging in please wait for it because backend is deployed on render in free server so it works slow.
+Thank you for the patience 
